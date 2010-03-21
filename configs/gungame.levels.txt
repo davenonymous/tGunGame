@@ -1,0 +1,111 @@
+"Gungame"
+{
+	"00"
+	{
+		"class"		"4"
+		"weapon"	"132"		//scout pistol
+	}
+
+	"01"
+	{
+		"class"		"1"
+		"weapon"	"23"		//scout pistol
+	}
+
+	"02"
+	{
+		"class"		"6"
+		"weapon"	"22"		//engineer pistol
+	}
+
+	"03"
+	{
+		"class"		"9"
+		"weapon"	"24"		//spy revolver
+	}
+
+	"04"
+	{
+		"class"		"7"
+		"weapon"	"17"		//medic syringe
+	}
+
+	"05"
+	{
+		"class"		"5"
+		"weapon"	"11"		//heavy shotgun
+	}
+
+	"06"
+	{
+		"class"		"3"
+		"weapon"	"39"		//pyro flaregun
+	}
+	
+	"07"
+	{
+		"class"		"9"
+		"weapon"	"61"		//ambassador
+	}
+
+	"08"
+	{
+		"class"		"2"
+		"weapon"	"127"
+	}
+
+	"09"
+	{
+		"class"		"4"
+		"weapon"	"130"
+	}	
+
+	"10"
+	{
+		"class"		"8"
+		"weapon"	"16"
+	}
+
+	"11"
+	{
+		"class"		"7"
+		"weapon"	"36"
+	}
+
+	"12"
+	{
+		"class"		"5"
+		"weapon"	"15"
+	}
+
+	"13"
+	{
+		"class"		"3"
+		"weapon"	"21"
+	}
+
+	"14"
+	{
+		"class"		"2"
+		"weapon"	"18"
+	}
+
+	"15"
+	{
+		"class"		"4"
+		"weapon"	"20"
+	}
+
+	"16"
+	{
+		"class"		"8"
+		"weapon"	"56"
+	}
+
+	"17"
+	{
+		"class"		"9"
+		"weapon"	"4"
+	}
+	
+}
